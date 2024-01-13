@@ -6,6 +6,10 @@ Helpful websites, tools, blogs about topics around web development
 
 - [Beautiful CSS box-shadow examples](https://getcssscan.com/css-box-shadow-examples)
 
+## Database
+
+- [Traditional databases vs serverless databases](https://www.prisma.io/dataguide/serverless/traditional-vs-serverless-databases)
+
 ## Git
 
 - [Complete Git and GitHub Tutorial - Kunal Kushwaha (YouTube)](https://youtu.be/apGV9Kg7ics?si=WcV0B4Sqs5v0fel7)
