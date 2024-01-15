@@ -2,6 +2,10 @@
 
 Helpful websites, tools, blogs about topics around web development
 
+## Miscellaneous 
+
+- [What is serverless computing? | Serverless definition](https://www.cloudflare.com/learning/serverless/what-is-serverless/)
+
 ## CSS
 
 - [Beautiful CSS box-shadow examples](https://getcssscan.com/css-box-shadow-examples)
