@@ -28,3 +28,7 @@ Helpful websites, tools, blogs about topics around web development
 ## Tools
 
 - [Excalidraw - Virtual whiteboard for sketching hand-drawn like diagrams](https://excalidraw.com/)
+
+## Concentration Music
+
+- [Snowfall (slowed + reverb + 1hour)](https://youtu.be/XaQndr7Kkrc?si=Rma5MD8iVMJwzN0d)
