@@ -37,3 +37,4 @@ Helpful websites, tools, blogs about topics around web development
 ## Concentration/Ambient Music
 
 - [Snowfall (slowed + reverb + 1hour)](https://youtu.be/XaQndr7Kkrc?si=Rma5MD8iVMJwzN0d)
+- [If Interstellar & Inception Had A Soundtrack Baby (Ambient)](https://youtu.be/zbMC9d7Z22Q?si=zc1kbn9RfBBB3oeB)
