@@ -28,6 +28,7 @@ Helpful websites, tools, blogs about topics around web development
 ## Tools
 
 - [Excalidraw - Virtual whiteboard for sketching hand-drawn like diagrams](https://excalidraw.com/)
+- [PX to REM converter - CSS (nekoCalc)](https://nekocalc.com/px-to-rem-converter)
 
 ## Web
 
