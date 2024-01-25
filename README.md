@@ -34,6 +34,10 @@ Helpful websites, tools, blogs about topics around web development
 
 - [Infinite Scrolling: When to Use It, When to Avoid It](https://www.nngroup.com/articles/infinite-scrolling-tips/)
 
+## Web Security
+
+- [OAuth 2.0 and Workflow video](https://youtu.be/996OiexHze0?si=qxCIGCdMvqbnDa8V)
+
 ## Concentration/Ambient Music
 
 - [Snowfall (slowed + reverb + 1hour)](https://youtu.be/XaQndr7Kkrc?si=Rma5MD8iVMJwzN0d)
