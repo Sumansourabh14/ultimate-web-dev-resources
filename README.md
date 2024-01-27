@@ -37,6 +37,7 @@ Helpful websites, tools, blogs about topics around web development
 ## Web Security
 
 - [OAuth 2.0 and Workflow video](https://youtu.be/996OiexHze0?si=qxCIGCdMvqbnDa8V)
+- [What is OAuth 2.0? by auth0.com](https://auth0.com/intro-to-iam/what-is-oauth-2)
 
 ## Concentration/Ambient Music
 
