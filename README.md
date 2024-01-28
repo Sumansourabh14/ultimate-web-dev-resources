@@ -36,6 +36,7 @@ Helpful websites, tools, blogs about topics around web development
 
 ## Web Security
 
+- [Authentication vs. Authorization](https://www.okta.com/identity-101/authentication-vs-authorization)
 - [OAuth 2.0 and Workflow video](https://youtu.be/996OiexHze0?si=qxCIGCdMvqbnDa8V)
 - [What is OAuth 2.0? by auth0.com](https://auth0.com/intro-to-iam/what-is-oauth-2)
 - [OAuth and OpenID Connect: A Background Check](https://htamahc.medium.com/oauth-and-openid-connect-a-background-check-dc17257d4f6c)
