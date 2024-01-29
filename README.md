@@ -8,6 +8,10 @@ Helpful websites, tools, blogs about topics around web development
 - [Why use serverless computing? | Pros and cons of serverless](https://www.cloudflare.com/learning/serverless/why-use-serverless/)
 - [How to Build a Powerful Web Developer Portfolio (With Examples!)](https://arc.dev/developer-blog/web-developer-portfolio/)
 
+## API
+
+- [12 Essential Book APIs](https://blog.hubspot.com/website/api-books)
+
 ## CSS
 
 - [Beautiful CSS box-shadow examples](https://getcssscan.com/css-box-shadow-examples)
