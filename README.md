@@ -29,6 +29,10 @@ Helpful websites, tools, blogs about topics around web development
 
 - [ES6, ES7, ES8, ES9, ES10 and ES11 features](https://gist.github.com/rajaramtt/7df3702a04c644b0b62c9a64f48f3dbf#2-ecmascript-2016---es-7)
 
+## Node.js/Express
+
+- [Learn The MERN Stack - Express & MongoDB Rest API (Traversy Media)](https://youtu.be/-0exw-9YJBo?si=wfUAX_7Rn4wjgDi3)
+
 ## Tools
 
 - [Excalidraw - Virtual whiteboard for sketching hand-drawn like diagrams](https://excalidraw.com/)
