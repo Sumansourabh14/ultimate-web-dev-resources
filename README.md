@@ -32,6 +32,7 @@ Helpful websites, tools, blogs about topics around web development
 ## Node.js/Express
 
 - [Learn The MERN Stack - Express & MongoDB Rest API (Traversy Media)](https://youtu.be/-0exw-9YJBo?si=wfUAX_7Rn4wjgDi3)
+- [What are express.json() and express.urlencoded()?](https://stackoverflow.com/questions/23259168/what-are-express-json-and-express-urlencoded)
 
 ## Tools
 
