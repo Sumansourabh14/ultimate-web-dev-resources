@@ -50,6 +50,7 @@ Helpful websites, tools, blogs about topics around web development
 - [What is OAuth 2.0? by auth0.com](https://auth0.com/intro-to-iam/what-is-oauth-2)
 - [OAuth and OpenID Connect: A Background Check](https://htamahc.medium.com/oauth-and-openid-connect-a-background-check-dc17257d4f6c)
 - [OAuth 2.0 Simplified - by Aaron Parecki](https://www.oauth.com/)
+- [Single-factor, Two-factor, and Multi-factor Authentication](https://www.pingidentity.com/en/resources/identity-fundamentals/authentication/single-factor-two-factor-multi-factor-authentication.html)
 
 ## Concentration/Ambient Music
 
