@@ -56,3 +56,4 @@ Helpful websites, tools, blogs about topics around web development
 
 - [Snowfall (slowed + reverb + 1hour)](https://youtu.be/XaQndr7Kkrc?si=Rma5MD8iVMJwzN0d)
 - [If Interstellar & Inception Had A Soundtrack Baby (Ambient)](https://youtu.be/zbMC9d7Z22Q?si=zc1kbn9RfBBB3oeB)
+- [Interstellar | Sleeping Music, Melancholic Melody, 1 Hour Magical Journey, Ambient Music](https://youtu.be/p2zMXSXhZ9M?si=CYyHKBzfeNfGWRky)
