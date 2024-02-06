@@ -12,6 +12,10 @@ Helpful websites, tools, blogs about topics around web development
 
 - [12 Essential Book APIs](https://blog.hubspot.com/website/api-books)
 
+### Open Library (Books API)
+
+- [Importing your Goodreads & Accessing them with Open Library’s APIs](https://blog.openlibrary.org/2020/12/13/importing-your-goodreads-accessing-them-with-open-librarys-apis/)
+
 ## CSS
 
 - [Beautiful CSS box-shadow examples](https://getcssscan.com/css-box-shadow-examples)
