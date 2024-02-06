@@ -14,6 +14,7 @@ Helpful websites, tools, blogs about topics around web development
 
 ### Open Library (Books API)
 
+- [Open Library Developer Center / APIs](https://openlibrary.org/developers/api)
 - [Importing your Goodreads & Accessing them with Open Library’s APIs](https://blog.openlibrary.org/2020/12/13/importing-your-goodreads-accessing-them-with-open-librarys-apis/)
 
 ## CSS
