@@ -16,6 +16,7 @@ Helpful websites, tools, blogs about topics around web development
 
 - [Open Library Developer Center / APIs](https://openlibrary.org/developers/api)
 - [Importing your Goodreads & Accessing them with Open Library’s APIs](https://blog.openlibrary.org/2020/12/13/importing-your-goodreads-accessing-them-with-open-librarys-apis/)
+- [Limiting query to search API from openlibrary.com](https://stackoverflow.com/questions/72925293/limiting-query-to-search-api-from-openlibrary-com)
 
 ## CSS
 
