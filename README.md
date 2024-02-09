@@ -34,6 +34,7 @@ Helpful websites, tools, blogs about topics around web development
 ## Icons
 
 - [Font Awesome - Icon library and toolkit](https://fontawesome.com/)
+- [Favicon generator - Generate from text, image, or choose from hundreds of emojis](https://favicon.io/)
 
 ## JavaScript
 
