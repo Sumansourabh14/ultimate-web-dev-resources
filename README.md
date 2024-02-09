@@ -31,6 +31,10 @@ Helpful websites, tools, blogs about topics around web development
 - [Complete Git and GitHub Tutorial - Kunal Kushwaha (YouTube)](https://youtu.be/apGV9Kg7ics?si=WcV0B4Sqs5v0fel7)
 - [Difference between <code>git pull</code> and <code>git fetch</code>](https://stackoverflow.com/a/292359)
 
+## Icons
+
+- [Font Awesome - Icon library and toolkit](https://fontawesome.com/)
+
 ## JavaScript
 
 - [ES6, ES7, ES8, ES9, ES10 and ES11 features](https://gist.github.com/rajaramtt/7df3702a04c644b0b62c9a64f48f3dbf#2-ecmascript-2016---es-7)
