@@ -25,6 +25,7 @@ Helpful websites, tools, blogs about topics around web development
 ## Database
 
 - [Traditional databases vs serverless databases](https://www.prisma.io/dataguide/serverless/traditional-vs-serverless-databases)
+- [Top 9 Open Source Graph Databases](https://analyticsindiamag.com/top-9-open-source-graph-databases/)
 
 ## Git
 
