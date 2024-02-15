@@ -53,6 +53,10 @@ Helpful websites, tools, blogs about topics around web development
 - [Learn The MERN Stack - Express & MongoDB Rest API (Traversy Media)](https://youtu.be/-0exw-9YJBo?si=wfUAX_7Rn4wjgDi3)
 - [What are express.json() and express.urlencoded()?](https://stackoverflow.com/questions/23259168/what-are-express-json-and-express-urlencoded)
 
+## React
+
+- [Dependencies in useEffect hook](https://react.dev/reference/react/useEffect#examples-dependencies)
+
 ## Tools
 
 - [Excalidraw - Virtual whiteboard for sketching hand-drawn like diagrams](https://excalidraw.com/)
