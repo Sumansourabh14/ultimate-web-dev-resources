@@ -43,6 +43,10 @@ Helpful websites, tools, blogs about topics around web development
 
 - [ES6, ES7, ES8, ES9, ES10 and ES11 features](https://gist.github.com/rajaramtt/7df3702a04c644b0b62c9a64f48f3dbf#2-ecmascript-2016---es-7)
 
+## Markdown
+
+- [Basic writing and formatting syntax - Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
 ## Node.js/Express
 
 - [Express js vs Node js](https://www.scaler.com/topics/express-js-vs-node-js/)
