@@ -7,6 +7,7 @@ Helpful websites, tools, blogs about topics around web development
 - [What is serverless computing? | Serverless definition](https://www.cloudflare.com/learning/serverless/what-is-serverless/)
 - [Why use serverless computing? | Pros and cons of serverless](https://www.cloudflare.com/learning/serverless/why-use-serverless/)
 - [How to Build a Powerful Web Developer Portfolio (With Examples!)](https://arc.dev/developer-blog/web-developer-portfolio/)
+- [npm vs npx — What’s the Difference?](https://www.freecodecamp.org/news/npm-vs-npx-whats-the-difference/)
 
 ## API
 
