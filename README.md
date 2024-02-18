@@ -23,6 +23,10 @@ Helpful websites, tools, blogs about topics around web development
 
 - [Beautiful CSS box-shadow examples](https://getcssscan.com/css-box-shadow-examples)
 
+### CSS Libraries/Frameworks
+
+- [Tailwind CSS - A utility-first CSS framework](https://tailwindcss.com/)
+
 ## Database
 
 - [Traditional databases vs serverless databases](https://www.prisma.io/dataguide/serverless/traditional-vs-serverless-databases)
