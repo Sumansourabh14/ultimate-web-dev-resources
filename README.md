@@ -33,6 +33,7 @@ Helpful websites, tools, blogs about topics around web development
 - [Top 9 Open Source Graph Databases](https://analyticsindiamag.com/top-9-open-source-graph-databases/)
 - [What is a graph database? - Neo4j](https://neo4j.com/docs/getting-started/get-started-with-neo4j/graph-database/)
 - [What Is a Graph Database? - AWS](https://aws.amazon.com/nosql/graph/)
+- [What is a Serverless Database?](https://www.geeksforgeeks.org/what-is-a-serverless-database/)
 
 ## Git
 
