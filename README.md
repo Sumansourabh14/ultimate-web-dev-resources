@@ -63,6 +63,10 @@ Helpful websites, tools, blogs about topics around web development
 
 - [Dependencies in useEffect hook](https://react.dev/reference/react/useEffect#examples-dependencies)
 
+## Rust
+
+- [What is Rust?](https://www.halo-lab.com/blog/rust-programming-language#:~:text=JavaScript%20is%20dynamically%20typed%2C%20while,either%20inferred%20or%20declared%20one.)
+
 ## Tools
 
 - [Excalidraw - Virtual whiteboard for sketching hand-drawn like diagrams](https://excalidraw.com/)
