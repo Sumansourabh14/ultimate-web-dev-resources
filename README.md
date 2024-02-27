@@ -9,6 +9,10 @@ Helpful websites, tools, blogs about topics around web development
 - [How to Build a Powerful Web Developer Portfolio (With Examples!)](https://arc.dev/developer-blog/web-developer-portfolio/)
 - [npm vs npx — What’s the Difference?](https://www.freecodecamp.org/news/npm-vs-npx-whats-the-difference/)
 
+## AI/ML
+
+- [AI Showdown: ChatGPT Vs. Google's Gemini – Which Reigns Supreme?](https://www.forbes.com/sites/bernardmarr/2024/02/13/ai-showdown-chatgpt-vs-googles-gemini--which-reigns-supreme/?sh=67ac9aa76072)
+
 ## API
 
 - [12 Essential Book APIs](https://blog.hubspot.com/website/api-books)
