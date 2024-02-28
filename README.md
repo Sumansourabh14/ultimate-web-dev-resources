@@ -12,6 +12,8 @@ Helpful websites, tools, blogs about topics around web development
 ## AI/ML
 
 - [AI Showdown: ChatGPT Vs. Google's Gemini – Which Reigns Supreme?](https://www.forbes.com/sites/bernardmarr/2024/02/13/ai-showdown-chatgpt-vs-googles-gemini--which-reigns-supreme/?sh=67ac9aa76072)
+- [ChatGPT (by OpenAI)](https://chat.openai.com/)
+- [Gemini (by Google)](https://gemini.google.com/app)
 
 ## API
 
