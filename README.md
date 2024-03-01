@@ -18,6 +18,7 @@ Helpful websites, tools, blogs about topics around web development
 ## API
 
 - [12 Essential Book APIs](https://blog.hubspot.com/website/api-books)
+- [How to build your own API and publish it on RapidAPI Hub?](https://rapidapi.com/guides/build-api-publish-on-rapidapi)
 
 ### Open Library (Books API)
 
