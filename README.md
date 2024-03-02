@@ -42,6 +42,12 @@ Helpful websites, tools, blogs about topics around web development
 - [What Is a Graph Database? - AWS](https://aws.amazon.com/nosql/graph/)
 - [What is a Serverless Database?](https://www.geeksforgeeks.org/what-is-a-serverless-database/)
 
+## Figma
+
+### Figma Plugins
+
+- [Locofy - Frontend Development at Lightning Speed | design to {code} in 1 click](https://www.locofy.ai/)
+
 ## Git
 
 - [Complete Git and GitHub Tutorial - Kunal Kushwaha (YouTube)](https://youtu.be/apGV9Kg7ics?si=WcV0B4Sqs5v0fel7)
