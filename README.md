@@ -44,6 +44,8 @@ Helpful websites, tools, blogs about topics around web development
 
 ## Figma
 
+- [The only Figma plugins you need for your workflow](https://uxplanet.org/the-only-figma-plugins-you-need-for-your-workflow-42a1bbccc42)
+
 ### Figma Plugins
 
 - [Locofy - Frontend Development at Lightning Speed | design to {code} in 1 click](https://www.locofy.ai/)
