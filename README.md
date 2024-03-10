@@ -23,6 +23,7 @@ Helpful websites, tools, blogs about topics around web development
 - [How to build your own API and publish it on RapidAPI Hub?](https://rapidapi.com/guides/build-api-publish-on-rapidapi)
 - [Postman - API platform for building and using APIs](https://www.postman.com/)
 - [What is API integration?](https://www.postman.com/api-platform/api-integration/)
+- [The Top 10 Best API Integration Tools For Developers](https://www.integrate.io/blog/api-integration-tools/)
 
 ### Open Library (Books API)
 
