@@ -68,6 +68,7 @@ Helpful websites, tools, blogs about topics around web development
 ## JavaScript
 
 - [ES6, ES7, ES8, ES9, ES10 and ES11 features](https://gist.github.com/rajaramtt/7df3702a04c644b0b62c9a64f48f3dbf#2-ecmascript-2016---es-7)
+- [The best JavaScript debugging tools for 2021 and beyond](https://raygun.com/learn/javascript-debugging-tools)
 
 ## Markdown
 
