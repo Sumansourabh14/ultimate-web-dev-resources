@@ -31,6 +31,10 @@ Helpful websites, tools, blogs about topics around web development
 - [Importing your Goodreads & Accessing them with Open Library’s APIs](https://blog.openlibrary.org/2020/12/13/importing-your-goodreads-accessing-them-with-open-librarys-apis/)
 - [Limiting query to search API from openlibrary.com](https://stackoverflow.com/questions/72925293/limiting-query-to-search-api-from-openlibrary-com)
 
+## Command Line
+
+- [Command line crash course](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line)
+
 ## CSS
 
 - [Beautiful CSS box-shadow examples](https://getcssscan.com/css-box-shadow-examples)
