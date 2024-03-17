@@ -16,6 +16,7 @@ Helpful websites, tools, blogs about topics around web development
 - [ChatGPT (by OpenAI)](https://chat.openai.com/)
 - [Gemini (by Google)](https://gemini.google.com/app)
 - [Claude](https://claude.ai/)
+- [Introducing Devin, the first AI software engineer](https://www.cognition-labs.com/introducing-devin)
 
 ## API
 
