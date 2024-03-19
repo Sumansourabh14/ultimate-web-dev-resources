@@ -69,6 +69,7 @@ Helpful websites, tools, blogs about topics around web development
 
 - [Font Awesome - Icon library and toolkit](https://fontawesome.com/)
 - [Favicon generator - Generate from text, image, or choose from hundreds of emojis](https://favicon.io/)
+- [Ionicons - Premium designed icons for use in web, iOS, Android, and desktop apps. Support for SVG. Completely open source, MIT licensed and built by Ionic.](https://ionic.io/ionicons)
 
 ## JavaScript
 
