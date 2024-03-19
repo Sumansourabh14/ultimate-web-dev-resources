@@ -94,6 +94,10 @@ Helpful websites, tools, blogs about topics around web development
 
 - [Dependencies in useEffect hook](https://react.dev/reference/react/useEffect#examples-dependencies)
 
+## React Native/Expo
+
+- [Set up Android Studio Emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
+
 ## Rust
 
 - [What is Rust?](https://www.halo-lab.com/blog/rust-programming-language#:~:text=JavaScript%20is%20dynamically%20typed%2C%20while,either%20inferred%20or%20declared%20one.)
