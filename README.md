@@ -25,6 +25,7 @@ Helpful websites, tools, blogs about topics around web development
 - [Postman - API platform for building and using APIs](https://www.postman.com/)
 - [What is API integration?](https://www.postman.com/api-platform/api-integration/)
 - [The Top 10 Best API Integration Tools For Developers](https://www.integrate.io/blog/api-integration-tools/)
+- [Recite - API for quotes from books](https://recite.onrender.com/)
 
 ### Open Library (Books API)
 
