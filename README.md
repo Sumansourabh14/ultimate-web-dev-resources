@@ -53,6 +53,12 @@ Helpful websites, tools, blogs about topics around web development
 - [What Is a Graph Database? - AWS](https://aws.amazon.com/nosql/graph/)
 - [What is a Serverless Database?](https://www.geeksforgeeks.org/what-is-a-serverless-database/)
 
+## Extensions
+
+### Chrome
+
+- [JSON Formatter](https://chromewebstore.google.com/detail/bcjindcccaagfpapjjmafapmmgkkhgoa)
+
 ## Figma
 
 - [The only Figma plugins you need for your workflow](https://uxplanet.org/the-only-figma-plugins-you-need-for-your-workflow-42a1bbccc42)
