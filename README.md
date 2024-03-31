@@ -136,6 +136,7 @@ Helpful websites, tools, blogs about topics around web development
 - [OAuth 2.0 Simplified - by Aaron Parecki](https://www.oauth.com/)
 - [Single-factor, Two-factor, and Multi-factor Authentication](https://www.pingidentity.com/en/resources/identity-fundamentals/authentication/single-factor-two-factor-multi-factor-authentication.html)
 - [Bcrypt Hash Generator & Verifier - Generate password hashes with bcrypt algorithm](https://bcrypt.online/)
+- [15 Password Management Best Practices](https://www.beyondtrust.com/blog/entry/top-15-password-management-best-practices)
 
 ## Concentration/Ambient Music
 
