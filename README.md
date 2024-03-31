@@ -135,6 +135,7 @@ Helpful websites, tools, blogs about topics around web development
 - [OAuth and OpenID Connect: A Background Check](https://htamahc.medium.com/oauth-and-openid-connect-a-background-check-dc17257d4f6c)
 - [OAuth 2.0 Simplified - by Aaron Parecki](https://www.oauth.com/)
 - [Single-factor, Two-factor, and Multi-factor Authentication](https://www.pingidentity.com/en/resources/identity-fundamentals/authentication/single-factor-two-factor-multi-factor-authentication.html)
+- [Bcrypt Hash Generator & Verifier - Generate password hashes with bcrypt algorithm](https://bcrypt.online/)
 
 ## Concentration/Ambient Music
 
