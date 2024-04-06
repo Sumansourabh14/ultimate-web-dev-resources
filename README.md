@@ -111,6 +111,7 @@ Helpful websites, tools, blogs about topics around web development
 - [React Native Paper - Cross-platform Material Design for React Native](https://callstack.github.io/react-native-paper/)
 - [Testing - React Native](https://reactnative.dev/docs/testing-overview)
 - [Submit to the Google Play Store](https://docs.expo.dev/submit/android/)
+- [React Native 0.73 - Debugging Improvements, Stable Symlink Support, and more](https://reactnative.dev/blog/2023/12/06/0.73-debugging-improvements-stable-symlinks)
 
 ## Rust
 
