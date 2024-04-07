@@ -120,6 +120,7 @@ Helpful websites, tools, blogs about topics around web development
 ## Tech Blog/Websites
 
 - [The Verge - The Verge is about technology and how it makes us feel.](https://www.theverge.com/)
+- [TechCrunch](https://techcrunch.com/)
 
 ## Tools
 
