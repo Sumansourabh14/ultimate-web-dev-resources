@@ -146,6 +146,10 @@ Helpful websites, tools, blogs about topics around web development
 - [15 Password Management Best Practices](https://www.beyondtrust.com/blog/entry/top-15-password-management-best-practices)
 - [Hashing Passwords: One-Way Road to Security](https://auth0.com/blog/hashing-passwords-one-way-road-to-security/)
 
+## Yarn
+
+- [Selective dependency resolutions](https://classic.yarnpkg.com/lang/en/docs/selective-version-resolutions/)
+
 ## Concentration/Ambient Music
 
 - [Snowfall (slowed + reverb + 1hour)](https://youtu.be/XaQndr7Kkrc?si=Rma5MD8iVMJwzN0d)
