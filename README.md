@@ -44,6 +44,7 @@ Helpful websites, tools, blogs about topics around web development
 ### CSS Libraries/Frameworks
 
 - [Tailwind CSS - A utility-first CSS framework](https://tailwindcss.com/)
+- [shadcn/ui - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.](https://ui.shadcn.com/)
 
 ## Database
 
@@ -134,6 +135,7 @@ Helpful websites, tools, blogs about topics around web development
 ## Web
 
 - [Infinite Scrolling: When to Use It, When to Avoid It](https://www.nngroup.com/articles/infinite-scrolling-tips/)
+- [Basic Types of Buttons in User Interfaces](https://uxplanet.org/basic-types-of-buttons-in-user-interfaces-ea7b065f66ee)
 
 ## Web Security
 
