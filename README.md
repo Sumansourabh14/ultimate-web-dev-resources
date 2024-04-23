@@ -43,6 +43,7 @@ Helpful websites, tools, blogs about topics around web development
 
 ### CSS Libraries/Frameworks
 
+- [daisyUI - The most popular component library for Tailwind CSS](https://daisyui.com/)
 - [Tailwind CSS - A utility-first CSS framework](https://tailwindcss.com/)
 - [shadcn/ui - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.](https://ui.shadcn.com/)
 
