@@ -89,6 +89,7 @@ Helpful websites, tools, blogs about topics around web development
 - [The best JavaScript debugging tools for 2021 and beyond](https://raygun.com/learn/javascript-debugging-tools)
 - [10 best Javascript debugging tools](https://www.zipy.ai/blog/javascript-debugging-tools)
 - [ESLint - Configurable JavaScript linter. It helps you find and fix problems in your JavaScript code. Problems can be anything from potential runtime bugs, to not following best practices, to styling issues.](https://eslint.org/)
+- [What Is The Fastest Way To Load JavaScript?](https://youtu.be/BMuFBYw91UQ?si=XTZzGBO88lq9E86q)
 
 ## Markdown
 
