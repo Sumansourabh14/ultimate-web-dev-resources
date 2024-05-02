@@ -140,6 +140,7 @@ Helpful websites, tools, blogs about topics around web development
 - [Infinite Scrolling: When to Use It, When to Avoid It](https://www.nngroup.com/articles/infinite-scrolling-tips/)
 - [Basic Types of Buttons in User Interfaces](https://uxplanet.org/basic-types-of-buttons-in-user-interfaces-ea7b065f66ee)
 - [Understanding the Critical Rendering Path](https://bitsofco.de/understanding-the-critical-rendering-path/)
+- [Introduction to web sustainability](https://developer.mozilla.org/en-US/blog/introduction-to-web-sustainability/)
 
 ## Web Security
 
