@@ -112,6 +112,8 @@ Helpful websites, tools, blogs about topics around web development
 
 ## React Native/Expo
 
+- [What is the difference between Expo and React Native?](https://stackoverflow.com/questions/39170622/what-is-the-difference-between-expo-and-react-native?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa)
+- [Expo vs React Native CLI: Key Differences Explained](https://flatirons.com/blog/expo-vs-react-native/)
 - [Set up Android Studio Emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
 - [React Native Paper - Cross-platform Material Design for React Native](https://callstack.github.io/react-native-paper/)
 - [Testing - React Native](https://reactnative.dev/docs/testing-overview)
