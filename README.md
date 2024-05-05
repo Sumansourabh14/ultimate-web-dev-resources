@@ -105,6 +105,7 @@ Helpful websites, tools, blogs about topics around web development
 - [Learn The MERN Stack - Express & MongoDB Rest API (Traversy Media)](https://youtu.be/-0exw-9YJBo?si=wfUAX_7Rn4wjgDi3)
 - [What are express.json() and express.urlencoded()?](https://stackoverflow.com/questions/23259168/what-are-express-json-and-express-urlencoded)
 - [A guide to Node.js design patterns](https://blog.logrocket.com/guide-node-js-design-patterns/)
+- [Design Patterns in Node.js - Suneel Kumar](https://medium.com/@techsuneel99/design-patterns-in-node-js-31211904903e)
 
 ## React
 
