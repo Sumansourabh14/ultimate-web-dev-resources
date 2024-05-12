@@ -145,6 +145,7 @@ Helpful websites, tools, blogs about topics around web development
 - [Basic Types of Buttons in User Interfaces](https://uxplanet.org/basic-types-of-buttons-in-user-interfaces-ea7b065f66ee)
 - [Understanding the Critical Rendering Path](https://bitsofco.de/understanding-the-critical-rendering-path/)
 - [Introduction to web sustainability](https://developer.mozilla.org/en-US/blog/introduction-to-web-sustainability/)
+- [What is a web server?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/What_is_a_web_server)
 
 ## Web Security
 
