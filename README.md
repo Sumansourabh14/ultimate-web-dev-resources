@@ -1,4 +1,4 @@
-# Ultimate Web Dev Resources
+![image](https://github.com/Sumansourabh14/ultimate-web-dev-resources/assets/71708709/5fd00da5-efda-472d-9d59-26b22a651ce4)# Ultimate Web Dev Resources
 
 Helpful websites, tools, blogs about topics around web development
 
@@ -75,6 +75,10 @@ Helpful websites, tools, blogs about topics around web development
 - [Difference between <code>git pull</code> and <code>git fetch</code>](https://stackoverflow.com/a/292359)
 - [Git Branches: List, Create, Switch to, Merge, Push, & Delete](https://www.nobledesktop.com/learn/git/git-branches)
 - [Git List Branches – How to Show All Remote and Local Branch Names](https://www.freecodecamp.org/news/git-list-branches-how-to-show-all-remote-and-local-branch-names/)
+
+## Google Play Console
+
+- [Set up an open, closed, or internal test](https://support.google.com/googleplay/android-developer/answer/9845334?hl=en)
 
 ## Icons
 
