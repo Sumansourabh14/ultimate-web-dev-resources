@@ -1,5 +1,3 @@
-![image](https://github.com/Sumansourabh14/ultimate-web-dev-resources/assets/71708709/5fd00da5-efda-472d-9d59-26b22a651ce4)# Ultimate Web Dev Resources
-
 Helpful websites, tools, blogs about topics around web development
 
 ## Miscellaneous 
