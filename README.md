@@ -113,6 +113,7 @@ Helpful websites, tools, blogs about topics around web development
 ## React
 
 - [Dependencies in useEffect hook](https://react.dev/reference/react/useEffect#examples-dependencies)
+- [Difference between declarative and imperative in React.js](https://stackoverflow.com/questions/33655534/difference-between-declarative-and-imperative-in-react-js)
 
 ## React Native/Expo
 
