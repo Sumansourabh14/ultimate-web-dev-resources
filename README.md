@@ -142,6 +142,7 @@ Helpful websites, tools, blogs about topics around web development
 - [Taskade - Task Management](https://www.taskade.com/)
 - [Pexels - The best free stock photos, royalty free images & videos shared by creators](https://www.pexels.com/)
 - [Unsplash - The internet’s source for visuals. Free images](https://unsplash.com/)
+- [What Is My Screen Resolution](https://www.whatismyscreenresolution.org/)
 
 ## Web
 
