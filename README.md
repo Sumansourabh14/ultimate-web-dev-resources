@@ -97,6 +97,7 @@ Helpful websites, tools, blogs about topics around web development
 - [ESLint - Configurable JavaScript linter. It helps you find and fix problems in your JavaScript code. Problems can be anything from potential runtime bugs, to not following best practices, to styling issues.](https://eslint.org/)
 - [What Is The Fastest Way To Load JavaScript?](https://youtu.be/BMuFBYw91UQ?si=XTZzGBO88lq9E86q)
 - [Garbage Collection in JavaScript](https://medium.com/swlh/garbage-collection-in-javascript-b1e4dbffb51)
+- [Top 7 JavaScript Backend Frameworks In 2024](https://visionx.io/blog/javascript-backend-frameworks/)
 
 ## Markdown
 
