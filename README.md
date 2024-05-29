@@ -151,6 +151,7 @@ Helpful websites, tools, blogs about topics around web development
 - [What Is My Screen Resolution](https://www.whatismyscreenresolution.org/)
 - [Photo editing for everyone](https://www.photomultitool.com/)
 - [Free Sample pdf Files Dowload for Testing](https://www.learningcontainer.com/sample-pdf-files-for-testing/)
+- [BrandBird - A screenshot editor, chrome extension available](https://www.brandbird.app/)
 
 ## Web
 
