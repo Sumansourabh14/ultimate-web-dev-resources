@@ -11,7 +11,7 @@ Helpful websites, tools, blogs about topics around web development
 ## Accessibility
 
 - [Elements must meet minimum color contrast ratio thresholds](https://dequeuniversity.com/rules/axe/4.9/color-contrast?application=AxeChrome)
-- [<code><ul></code> and <code><ol></code> must only directly contain <li>, <script> or <template> elements](https://dequeuniversity.com/rules/axe/4.9/list?application=AxeChrome)
+- [ul and ol must only directly contain li, script or template elements](https://dequeuniversity.com/rules/axe/4.9/list?application=AxeChrome)
 
 ## AI/ML
 
