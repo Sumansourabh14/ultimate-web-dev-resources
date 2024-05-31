@@ -8,6 +8,11 @@ Helpful websites, tools, blogs about topics around web development
 - [npm vs npx — What’s the Difference?](https://www.freecodecamp.org/news/npm-vs-npx-whats-the-difference/)
 - [Windows Web Developer Setup Guide (2022)](https://github.com/Vets-Who-Code/windows-dev-guide)
 
+## Accessibility
+
+- [Elements must meet minimum color contrast ratio thresholds](https://dequeuniversity.com/rules/axe/4.9/color-contrast?application=AxeChrome)
+- [<code><ul></code> and <code><ol></code> must only directly contain <li>, <script> or <template> elements](https://dequeuniversity.com/rules/axe/4.9/list?application=AxeChrome)
+
 ## AI/ML
 
 - [AI Showdown: ChatGPT Vs. Google's Gemini – Which Reigns Supreme?](https://www.forbes.com/sites/bernardmarr/2024/02/13/ai-showdown-chatgpt-vs-googles-gemini--which-reigns-supreme/?sh=67ac9aa76072)
