@@ -87,6 +87,10 @@ Helpful websites, tools, blogs about topics around web development
 
 - [Set up an open, closed, or internal test](https://support.google.com/googleplay/android-developer/answer/9845334?hl=en)
 
+## HTML
+
+- [ARIA - Accessible Rich Internet Applications](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
+
 ## Icons
 
 - [Font Awesome - Icon library and toolkit](https://fontawesome.com/)
