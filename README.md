@@ -186,6 +186,10 @@ Helpful websites, tools, blogs about topics around web development
 - [15 Password Management Best Practices](https://www.beyondtrust.com/blog/entry/top-15-password-management-best-practices)
 - [Hashing Passwords: One-Way Road to Security](https://auth0.com/blog/hashing-passwords-one-way-road-to-security/)
 
+## WordPress
+
+- [How to Add Meta Description, Meta Title, and Focus Keyphrase in WordPress? - Hostinger](https://nextjs.org/docs/pages/api-reference/components/image?utm_source=lighthouse&utm_medium=devtools#sizes)
+
 ## Yarn
 
 - [Selective dependency resolutions](https://classic.yarnpkg.com/lang/en/docs/selective-version-resolutions/)
