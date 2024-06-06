@@ -111,6 +111,7 @@ Helpful websites, tools, blogs about topics around web development
 - [What Is The Fastest Way To Load JavaScript?](https://youtu.be/BMuFBYw91UQ?si=XTZzGBO88lq9E86q)
 - [Garbage Collection in JavaScript](https://medium.com/swlh/garbage-collection-in-javascript-b1e4dbffb51)
 - [Top 7 JavaScript Backend Frameworks In 2024](https://visionx.io/blog/javascript-backend-frameworks/)
+- [7 Best Backend JavaScript Frameworks in 2024](https://www.geeksforgeeks.org/best-backend-javascript-frameworks/)
 
 ## Markdown
 
