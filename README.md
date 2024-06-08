@@ -176,6 +176,7 @@ Helpful websites, tools, blogs about topics around web development
 - [Introduction to web sustainability](https://developer.mozilla.org/en-US/blog/introduction-to-web-sustainability/)
 - [What is a web server?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/What_is_a_web_server)
 - [What is DNS? | How DNS works](https://www.cloudflare.com/learning/dns/what-is-dns/)
+- [24 Best Web Development Tools Reviewed For 2024](https://thectoclub.com/tools/best-web-development-tools/#full-listing-1692444)
 
 ## Web Security
 
