@@ -175,6 +175,7 @@ Helpful websites, tools, blogs about topics around web development
 - [Understanding the Critical Rendering Path](https://bitsofco.de/understanding-the-critical-rendering-path/)
 - [Introduction to web sustainability](https://developer.mozilla.org/en-US/blog/introduction-to-web-sustainability/)
 - [What is a web server?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/What_is_a_web_server)
+- [What is DNS? | How DNS works](https://www.cloudflare.com/learning/dns/what-is-dns/)
 
 ## Web Security
 
