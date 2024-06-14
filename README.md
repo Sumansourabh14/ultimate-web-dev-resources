@@ -12,7 +12,9 @@ Helpful websites, tools, blogs about topics around web development
 
 - [ARIA input fields must have an accessible name](https://dequeuniversity.com/rules/axe/4.9/aria-input-field-name?application=AxeChrome)
 - [ARIA progressbar nodes must have an accessible name](https://dequeuniversity.com/rules/axe/4.9/aria-progressbar-name?application=AxeChrome)
+- [ARIA roles used must conform to valid values](https://dequeuniversity.com/rules/axe/4.9/aria-roles)
 - [Elements must meet minimum color contrast ratio thresholds](https://dequeuniversity.com/rules/axe/4.9/color-contrast?application=AxeChrome)
+- [Links must have discernible text](https://dequeuniversity.com/rules/axe/4.9/link-name)
 - [ul and ol must only directly contain li, script or template elements](https://dequeuniversity.com/rules/axe/4.9/list?application=AxeChrome)
 - [Scrollable region must have keyboard access](https://dequeuniversity.com/rules/axe/4.9/scrollable-region-focusable?application=AxeChrome)
 - [Heading levels should only increase by one](https://dequeuniversity.com/rules/axe/4.9/heading-order)
