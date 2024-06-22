@@ -7,6 +7,7 @@ Helpful websites, tools, blogs about topics around web development
 - [How to Build a Powerful Web Developer Portfolio (With Examples!)](https://arc.dev/developer-blog/web-developer-portfolio/)
 - [npm vs npx — What’s the Difference?](https://www.freecodecamp.org/news/npm-vs-npx-whats-the-difference/)
 - [Windows Web Developer Setup Guide (2022)](https://github.com/Vets-Who-Code/windows-dev-guide)
+- [11 easy tips to fix bugs and debug your code faster](https://nirjan.dev/blog/11-easy-tips-to-fix-bugs-and-debug-your-code-faster)
 
 ## Accessibility
 
