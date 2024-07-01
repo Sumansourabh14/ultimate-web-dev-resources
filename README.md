@@ -173,6 +173,11 @@ Helpful websites, tools, blogs about topics around web development
 - [BrandBird - A screenshot editor, chrome extension available](https://www.brandbird.app/)
 - [JSON Formatter Online](https://jsonformatter.org/)
 
+## UI/UX
+
+- [Everything you need to know about skeleton screens](https://uxdesign.cc/what-you-should-know-about-skeleton-screens-a820c45a571a)
+- [16 little UI design rules that make a big impact](https://uxplanet.org/16-ui-design-tips-ba2e7524d203)
+
 ## Web
 
 - [Infinite Scrolling: When to Use It, When to Avoid It](https://www.nngroup.com/articles/infinite-scrolling-tips/)
