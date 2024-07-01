@@ -155,6 +155,10 @@ Helpful websites, tools, blogs about topics around web development
 
 - [What is Rust?](https://www.halo-lab.com/blog/rust-programming-language#:~:text=JavaScript%20is%20dynamically%20typed%2C%20while,either%20inferred%20or%20declared%20one.)
 
+## Testing
+
+- [Cypress vs Jest | Top 15 Key Differences](https://testsigma.com/blog/cypress-vs-jest/)
+
 ## Tech Blog/Websites
 
 - [The Verge - The Verge is about technology and how it makes us feel.](https://www.theverge.com/)
