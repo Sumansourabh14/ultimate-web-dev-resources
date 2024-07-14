@@ -31,6 +31,7 @@ Helpful websites, tools, blogs about topics around web development
 ## API
 
 - [APIs Explained (in 4 Minutes)](https://youtu.be/bxuYDT-BWaI?si=8LUtHcVJGOJra3nU)
+- [API Basics: A Beginner’s Guide to APIs](https://blog.postman.com/understanding-api-basics-beginners/)
 - [12 Essential Book APIs](https://blog.hubspot.com/website/api-books)
 - [How to build your own API and publish it on RapidAPI Hub?](https://rapidapi.com/guides/build-api-publish-on-rapidapi)
 - [Postman - API platform for building and using APIs](https://www.postman.com/)
