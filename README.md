@@ -57,6 +57,7 @@ Helpful websites, tools, blogs about topics around web development
 ## CSS
 
 - [Beautiful CSS box-shadow examples](https://getcssscan.com/css-box-shadow-examples)
+- [Z-Index (CSS): Everything you need to know](https://dev.to/therajatg/z-index-in-css-5c1p)
 
 ### CSS Libraries/Frameworks
 
