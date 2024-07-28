@@ -102,6 +102,7 @@ Helpful websites, tools, blogs about topics around web development
 ## HTML
 
 - [ARIA - Accessible Rich Internet Applications](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
+- [Links that don’t go anywhere should be buttons](https://christianheilmann.com/2019/02/05/links-that-dont-go-anywhere-should-be-buttons/)
 
 ## Icons
 
