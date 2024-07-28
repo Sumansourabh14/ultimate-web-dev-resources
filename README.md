@@ -1,5 +1,9 @@
 Helpful websites, tools, blogs about topics around web development
 
+## Frontend Preparation
+
+- [BigFrontEnd.dev Practice + Prepare = Offer](https://bigfrontend.dev/)
+
 ## Miscellaneous 
 
 - [What is serverless computing? | Serverless definition](https://www.cloudflare.com/learning/serverless/what-is-serverless/)
@@ -39,6 +43,7 @@ Helpful websites, tools, blogs about topics around web development
 - [What is API integration?](https://www.postman.com/api-platform/api-integration/)
 - [The Top 10 Best API Integration Tools For Developers](https://www.integrate.io/blog/api-integration-tools/)
 - [Recite - API for quotes from books](https://recite.onrender.com/)
+- [Limiting Node.js API calls with express-rate-limit](https://dev.to/brunohgv/limiting-node-js-api-calls-with-express-rate-limit-11kl)
 
 ### Open Library (Books API)
 
