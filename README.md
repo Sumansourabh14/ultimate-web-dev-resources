@@ -198,6 +198,7 @@ Helpful websites, tools, blogs about topics around web development
 - [What is DNS? | How DNS works](https://www.cloudflare.com/learning/dns/what-is-dns/)
 - [24 Best Web Development Tools Reviewed For 2024](https://thectoclub.com/tools/best-web-development-tools/#full-listing-1692444)
 - [Checkboxes vs. Radio Buttons](https://www.nngroup.com/articles/checkboxes-vs-radio-buttons/)
+- [URL, URI, URN: What's the Difference?](https://auth0.com/blog/url-uri-urn-differences/)
 
 ## Web Security
 
