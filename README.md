@@ -63,6 +63,8 @@ Helpful websites, tools, blogs about topics around web development
 
 - [Beautiful CSS box-shadow examples](https://getcssscan.com/css-box-shadow-examples)
 - [Beautifully simple click-to-copy CSS effects](https://cssfx.netlify.app/)
+- [CSS Gradient](https://cssgradient.io/)
+- [Color Gradient Generator](https://colorgradient.dev/gradient-generator/)
 - [Z-Index (CSS): Everything you need to know](https://dev.to/therajatg/z-index-in-css-5c1p)
 
 ### CSS Libraries/Frameworks
