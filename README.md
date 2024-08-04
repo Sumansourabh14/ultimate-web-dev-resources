@@ -110,6 +110,7 @@ Helpful websites, tools, blogs about topics around web development
 
 - [ARIA - Accessible Rich Internet Applications](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
 - [Links that don’t go anywhere should be buttons](https://christianheilmann.com/2019/02/05/links-that-dont-go-anywhere-should-be-buttons/)
+- [Intrinsic Size vs Rendered Size: Understanding the Differences](https://www.ohmycrawl.com/technical-seo/intrinsic-size-vs-rendered/)
 
 ## Icons
 
