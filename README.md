@@ -207,6 +207,7 @@ Helpful websites, tools, blogs about topics around web development
 - [24 Best Web Development Tools Reviewed For 2024](https://thectoclub.com/tools/best-web-development-tools/#full-listing-1692444)
 - [Checkboxes vs. Radio Buttons](https://www.nngroup.com/articles/checkboxes-vs-radio-buttons/)
 - [URL, URI, URN: What's the Difference?](https://auth0.com/blog/url-uri-urn-differences/)
+- [8 tips for the perfect title tag](https://www.agconsult.com/en/usability-blog/8-tips-for-the-perfect-title-tag/#:~:text=Tips%20for%20a%20good%20title%20tag%201%201.,...%208%208.%20Unique%20for%20every%20page%20)
 
 ## Web Security
 
