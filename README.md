@@ -190,6 +190,7 @@ Helpful websites, tools, blogs about topics around web development
 - [Free Sample pdf Files Dowload for Testing](https://www.learningcontainer.com/sample-pdf-files-for-testing/)
 - [BrandBird - A screenshot editor, chrome extension available](https://www.brandbird.app/)
 - [JSON Formatter Online](https://jsonformatter.org/)
+- [Lorem Ipsum - Dummy text](https://www.lipsum.com/)
 
 ## UI/UX
 
