@@ -227,6 +227,7 @@ Helpful websites, tools, blogs about topics around web development
 
 - [How to Add Meta Description, Meta Title, and Focus Keyphrase in WordPress? - Hostinger](https://nextjs.org/docs/pages/api-reference/components/image?utm_source=lighthouse&utm_medium=devtools#sizes)
 - [Beginner’s Guide to WordPress Image Sizes (+ Best Practices)](https://www.wpbeginner.com/beginners-guide/wordpress-image-sizes-beginners-guide/)
+- [The Ultimate Guide To Conducting A WordPress Site Audit](https://codecraftwp.com/wordpress-site-audit/)
 
 ## Yarn
 
